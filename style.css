@@ -1,0 +1,19 @@
+body {
+  background-color: #d8d8d2;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  color: #999284;
+}
+
+canvas {
+  border-radius: 0.4em;
+  border: 4px;
+}
+p{
+  color: black;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;}
+
